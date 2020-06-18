@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smartirrigation-3ef38",
+  "private_key_id": "cab68389b958bebaba78394f5e2d09075af393bf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7PX562D1v8rva\n4pL40WJ2cq/YZiAHyg+e+xbjJdOAylKyHFecRuI+fNZSVIwPyv0WZ5XEAbCfiqNq\nf9nqWBy7NCgoEc+ss4m83sIeQ0uVgdNYpYhezzwjmBG71Ka0XhlQHbNMdvF4kxop\nQo7bHbz93HKZQm7XkMmQUzJqrTAsGrxMpzR5TuCSggH2so5X1CMlN03n5uueHylE\nqmeSCLymC7QwwtLIOWUIK0RAzqMl1HKV+LVB5jeditl4T09Pm9qROkBrnUbIrdqw\nlwvJaWlPZaUaL1dXP7RItde0TfL0Ls++1mmOTuebrlphXVGmakwmOEtNB6nz37VL\nxHsMKZUfAgMBAAECggEAUtMq5bBNzP10t6hOFx6YDYlB29mhBZEOQ+cSAryyyF+3\nIO6Emq6IWdfi/lxD8KB8P7LmfuO4e3paOzv+6zi6zNyPftoSIXTx0sg+2iAuiR36\nnVXr8vR8x8n23j182IBfdh8NNx/OROXdRq8YfjizZyBi2QSX/2ceomcLAEFH89nF\nzK8SI2qlDME/uokA1aKkuV4khQzKVBf3U4D9bM7Z1zYw0Dz6seZ4WetFgI7NkdZZ\nq6DUWmdQMKPt5n6J3xdGyy2z14PCHu9lPNODwOVLh/LRqP07j9o+Kgl4iQ8WvDs8\ndhxfYkyeIRBV4LjUEecoD8hkpW2N/H1c91hi/2G98QKBgQDmRGJfpV1Vn9fg54th\nnIhO6PR/2/PazCrdKQXM/lkAc0A2OZFpuKtd7Nu9DGNk/SArPvTD8U4MhvO7PORw\nn6JMQ6Xul5wHGSBKG0edxVp6m/UkOhRa8oeAJml8QEOWG7qlfy6P2eXn8TuTdmXb\nv+xxfvefE4NjsUV8pAhr4gGk8wKBgQDQKiu6OcoDQwDFYaj0i6aWTBhvvh9Uj5kr\nmSimHIqI6NjO9NQG7VElrMWrYGSMTe9TGj0TtUQ8m87jONpKouU2C7LPxwuH5YMt\nrZ+JPvMKoUxasYZYBzRzUtElsA6IVWPJc/qG+TNkmk1GGtuVhnTdZnMOedHQBILc\nOkIWaGfKJQKBgD6MUNR+TM4Xb0KOYtQO+w/EQ7X/f0vtra8Jl6PJa0+t/sE7/f3j\nxdjrn/zIQq+J+pUEsuQOxg6tEcPIlJzrH+Drd0VKNX3QG29F3bxDgYJQntRKWoEh\n5CCxTnIL2tAJlDekRneYztSkOHSj8qMwjP9/Z6/0UvpfiuqCfC8h4yR1AoGAGY5z\n2+MoaAob2B/LTGqwwxcIkP94fTs8BNxC31H1uCVOKOpp9YfBRKzXf9jPv2H6FevM\nv9SrUf2XAtKCClPBbEc3Zsb7JW4KEtuUEJeH4zA2XZQZ+Ei6KcZrIwNgZWCGZb81\nbMi/hIRlJEw71Tmys1PWoFpYZf+HyV3lqzaaN3kCgYEAxDboSGjpChIB3eVFRKqf\nt4P5GJvNd3sXVfxdaZ3rss+BBYIsf9SUrRuEML3lcB4/AEkZLayy/U4CizZ29M0L\n9AFAw6L1DCY3HrsaddfEjKxfLbk8TyQYGmo9/hGqBgdkyCKXEPlNlD4pvv0A7DQb\nxCia2wAG7HGbu8jIprehf/M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartirrigation-3ef38@appspot.gserviceaccount.com",
+  "client_id": "101823071096364646042",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartirrigation-3ef38%40appspot.gserviceaccount.com"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "node-firebase",
+  "version": "1.0.0",
+  "description": "firbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^7.8.2",
+    "joi": "^14.3.1"
+  }
+}
